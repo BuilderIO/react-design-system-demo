@@ -19,14 +19,8 @@ The source code for the custom components used in this demo are [here](src/compo
 - Clone and start the project:
 
 ```bash
-git clone https://github.com/BuilderIO/builder.git
-cd examples/react-design-system
+git clone git@github.com:BuilderIO/react-design-system-demo.git
 npm install
-```
-
-To run the app
-
-```
 npm run start
 ```
 
